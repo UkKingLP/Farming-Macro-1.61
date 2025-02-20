@@ -1,23 +1,3 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
+# About 
 
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+## Imagine not having to stare at your computer for 12 hours a day just to press the A and D keys. Imagine, being able to skip all the repetitive processes of farming and do other things simultaneously. Farm Helper is a highly customizable skyblock quality of life (QOL) mod that automates boring farming processes, freeing up your time for other activities.
